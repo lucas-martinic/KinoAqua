@@ -27,10 +27,10 @@ MonoBehaviour:
     m_Value: {r: 1, g: 0.96091455, b: 0.8726415, a: 0.8509804}
   blurWidth:
     m_OverrideState: 1
-    m_Value: 1.24
+    m_Value: 1
   blurFrequency:
     m_OverrideState: 1
-    m_Value: 0.38
+    m_Value: 0.395
   hueShift:
     m_OverrideState: 1
     m_Value: 0.107
@@ -264,6 +264,9 @@ MonoBehaviour:
     m_Value:
       serializedVersion: 2
       m_Bits: 4294967295
+  specularOcclusion:
+    m_OverrideState: 0
+    m_Value: 0.5
   occluderMotionRejection:
     m_OverrideState: 0
     m_Value: 1
